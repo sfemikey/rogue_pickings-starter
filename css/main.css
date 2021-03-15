@@ -44,6 +44,7 @@ p {
 
 /*The widths are in a percentage!*/
 header {
+	width: 100%;
 	display: flex;
   align-items: center;
 	justify-content: center;
@@ -53,7 +54,6 @@ header {
 
 header h1 {
 	border-bottom: 3px solid #77a466;
-	width: 350px;
 	text-align: center;
 	width: 100%;
 }

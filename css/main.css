@@ -55,6 +55,7 @@ header h1 {
 	border-bottom: 3px solid #77a466;
 	width: 350px;
 	text-align: center;
+	width: 100%;
 }
 
 header h1 span {
@@ -63,6 +64,7 @@ header h1 span {
 
 header nav {
 	padding: 2px 0;
+	width: 100%;
 }
 
 header nav ul {
